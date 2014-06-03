@@ -10,7 +10,8 @@ tap homebrew/binary
 install brew-cask
 install git
 install ruby
-install nodebrew
+install wget
+#install nodebrew
 
 # Cask Packages
 cask install google-chrome
