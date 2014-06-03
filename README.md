@@ -1,4 +1,4 @@
 
 nodebrew setup
 
-$ perl nodebrew setup
+    $ perl nodebrew setup
