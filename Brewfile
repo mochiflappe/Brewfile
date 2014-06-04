@@ -11,7 +11,7 @@ install brew-cask
 install git
 install ruby
 install wget
-#install nodebrew
+install nodebrew
 
 # Cask Packages
 cask install google-chrome
@@ -29,3 +29,4 @@ cask install bettertouchtool
 cask install cheatsheet
 cask install google-japanese-ime
 cask install sublime-text
+cask install scroll-reverser
