@@ -30,3 +30,4 @@ cask install cheatsheet
 cask install google-japanese-ime
 cask install sublime-text
 cask install scroll-reverser
+cask install skitch
