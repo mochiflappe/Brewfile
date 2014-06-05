@@ -12,6 +12,7 @@ install git
 install ruby
 install wget
 install nodebrew
+install tree
 
 # Cask Packages
 cask install google-chrome
