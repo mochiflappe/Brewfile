@@ -9,7 +9,8 @@ tap homebrew/binary
 # Packages
 install brew-cask
 install git
-install ruby
+install rbenv
+install ruby-build
 install wget
 install nodebrew
 install tree
