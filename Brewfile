@@ -14,6 +14,7 @@ install ruby-build
 install wget
 install nodebrew
 install tree
+install phantomjs
 
 # Cask Packages
 cask install google-chrome
