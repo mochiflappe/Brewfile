@@ -6,8 +6,9 @@ tap homebrew/versions
 tap phinze/homebrew-cask
 tap homebrew/binary
 
-# Packages
 install brew-cask
+
+# Packages
 install git
 install rbenv
 install ruby-build
