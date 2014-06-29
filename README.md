@@ -1,4 +1,7 @@
+#homebrew
 
-nodebrew setup
+    $ brew bundle
+
+##nodebrew setup
 
     $ perl nodebrew setup
