@@ -12,4 +12,4 @@
     
 ##app uninstall
 
-    $brew cask uninstall 'app name'
+    $ brew cask uninstall 'app name'
