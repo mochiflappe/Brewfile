@@ -37,3 +37,4 @@ cask install scroll-reverser
 cask install skitch
 cask install virtualbox
 cask install dash
+cask install imageoptim
