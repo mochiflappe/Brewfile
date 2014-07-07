@@ -38,3 +38,4 @@ cask install skitch
 cask install virtualbox
 cask install dash
 cask install imageoptim
+cask install imagealpha
