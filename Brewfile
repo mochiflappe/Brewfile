@@ -16,6 +16,8 @@ install wget
 install nodebrew
 install tree
 install phantomjs
+install pyenv
+install pyenv-virtualenv
 
 # Cask Packages
 cask install google-chrome
