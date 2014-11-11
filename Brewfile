@@ -18,6 +18,7 @@ install tree
 install phantomjs
 install pyenv
 install pyenv-virtualenv
+install zsh
 
 # Cask Packages
 cask install google-chrome
