@@ -22,7 +22,7 @@ install zsh
 
 # Cask Packages
 cask install google-chrome
-cask install firefox
+cask install firefox-ja
 cask install phpstorm
 cask install iterm2
 cask install alfred
