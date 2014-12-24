@@ -28,7 +28,7 @@ cask install iterm2
 cask install alfred
 cask install dropbox
 cask install xtrafinder
-cask install keyremap4macbook
+cask install karabiner
 cask install clipmenu
 cask install mamp
 cask install magican
