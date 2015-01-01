@@ -19,6 +19,7 @@ install phantomjs
 install pyenv
 install pyenv-virtualenv
 install zsh
+install wp-cli
 
 # Cask Packages
 cask install google-chrome
