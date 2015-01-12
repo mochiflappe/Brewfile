@@ -20,6 +20,7 @@ install pyenv
 install pyenv-virtualenv
 install zsh
 install wp-cli
+install mongodb
 
 # Cask Packages
 cask install google-chrome
