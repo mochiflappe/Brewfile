@@ -45,3 +45,12 @@ cask install dash
 cask install imageoptim
 cask install imagealpha
 cask install kobito
+
+# QuickLook Plugin
+cask install qlcolorcode
+cask install qlstephen
+cask install qlmarkdown
+cask install quicklook-json
+cask install quicklook-csv
+cask install betterzipql
+cask install qlimagesize
