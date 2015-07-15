@@ -21,6 +21,7 @@ install pyenv-virtualenv
 install zsh
 install wp-cli
 install mongodb
+install nginx
 
 # Cask Packages
 cask install google-chrome
