@@ -24,28 +24,31 @@ install mongodb
 install nginx
 
 # Cask Packages
+cask install google-japanese-ime
 cask install google-chrome
 cask install firefox-ja
-cask install phpstorm
 cask install iterm2
+cask install intellij-idea
+cask install sublime-text
+cask install kobito
 cask install alfred
-cask install dropbox
 cask install xtrafinder
 cask install karabiner
 cask install clipmenu
-cask install mamp
-cask install magican
 cask install bettertouchtool
 cask install cheatsheet
-cask install google-japanese-ime
-cask install sublime-text
 cask install scroll-reverser
-cask install skitch
-cask install virtualbox
+cask install magican
 cask install dash
+cask install dropbox
+cask install virtualbox
+cask install mamp
+cask install sequel-pro
+cask install skitch
 cask install imageoptim
 cask install imagealpha
-cask install kobito
+cask install forklift
+cask install coccinellida
 
 # QuickLook Plugin
 cask install qlcolorcode
