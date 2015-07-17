@@ -22,6 +22,7 @@ install zsh
 install wp-cli
 install mongodb
 install nginx
+install php-code-sniffer
 
 # Cask Packages
 cask install google-japanese-ime
