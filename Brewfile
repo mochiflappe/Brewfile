@@ -16,6 +16,7 @@ install wget
 install nodebrew
 install tree
 install phantomjs
+install casperjs --devel
 install pyenv
 install pyenv-virtualenv
 install zsh
