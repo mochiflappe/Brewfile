@@ -32,6 +32,7 @@ cask install firefox-ja
 cask install iterm2
 cask install intellij-idea
 cask install sublime-text
+cask install coteditor
 cask install kobito
 cask install alfred
 cask install xtrafinder
