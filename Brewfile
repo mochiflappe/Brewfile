@@ -52,6 +52,7 @@ cask install imageoptim
 cask install imagealpha
 cask install forklift
 cask install coccinellida
+cask install github-desktop
 
 # QuickLook Plugin
 cask install qlcolorcode
