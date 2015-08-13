@@ -20,9 +20,10 @@ install casperjs --devel
 install pyenv
 install pyenv-virtualenv
 install zsh
-install wp-cli
 install mongodb
+install wp-cli
 install nginx
+install php56 --with-fpm
 install php-code-sniffer
 
 # Cask Packages
