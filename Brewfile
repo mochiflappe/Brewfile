@@ -20,6 +20,7 @@ install casperjs --devel
 install pyenv
 install pyenv-virtualenv
 install zsh
+install peco
 install mongodb
 install wp-cli
 install nginx
