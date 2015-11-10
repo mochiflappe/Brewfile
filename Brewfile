@@ -28,6 +28,7 @@ install php56 --with-fpm
 install php-code-sniffer
 install zsh-completions
 install tmux
+install heroku-toolbelt
 
 # Cask Packages
 cask install google-japanese-ime
